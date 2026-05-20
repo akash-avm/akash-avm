@@ -87,17 +87,12 @@ A full-stack food ordering platform featuring authentication, restaurant listing
 ## GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=akash-avm&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-avm&theme=github_dark" width="100%" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-avm&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash-avm&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akash-avm&theme=github_dark" width="48%" />
 </p>
 ---
 
